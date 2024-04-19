@@ -17,7 +17,7 @@ import java.util.List;
  */
 
 
-public class DemoQAPractice {
+public class  DemoQAPractice {
 
     public static void main(String[] args) throws InterruptedException {
 

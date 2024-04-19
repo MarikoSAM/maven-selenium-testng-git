@@ -8,13 +8,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class PracticeAccessibilityWebPage {
     /*
 [X] Navigate to https://haltersweb.github.io/Accessibility/submit-disabling.html
-Locate 'Submit' button and print on console that button is disabled (use getAttribute() method)
-Print the text color of the Submit Button
-Enter some text on first name free text field
-Enter some text on last name free text field
-Click anywhere on the page through automation to make submit button enabled
-Locate 'Submit' button and print on console that button is enabled (use getAttribute() method)
-Print the text color of the Submit Button again and compare the color values
+  Locate 'Submit' button and print on console that button is disabled (use getAttribute() method)
+  Print the text color of the Submit Button
+  Enter some text on first name free text field
+  Enter some text on last name free text field
+  Click anywhere on the page through automation to make submit button enabled
+  Locate 'Submit' button and print on console that button is enabled (use getAttribute() method)
+  Print the text color of the Submit Button again and compare the color values
 */
 
 

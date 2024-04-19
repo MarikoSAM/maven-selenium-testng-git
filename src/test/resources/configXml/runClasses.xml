@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Run Classes Suite">
+    <test name="Run Classes Test">
+        <classes>
+            <class name="testngBasics.practice.HRMLoginTest"/>
+            <class name="testngBasics.practice.DependencyTest"/>
+            <class name="testngBasics.practice.PriorityTest"/>
+
+        </classes>
+    </test>
+</suite>

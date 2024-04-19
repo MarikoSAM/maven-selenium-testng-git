@@ -4,20 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec480d4e-152c-4f40-89e6-649e870cdff9" name="Changes" comment="">
+    <list default="true" id="ec480d4e-152c-4f40-89e6-649e870cdff9" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Homeworks/ApplitoolsPracticeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Homeworks/HomewoekDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Homeworks/HomeworkAssertionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Homeworks/MagentoPracticeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/module3/HomeworkVerifyingTabVisualFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/module3/PracticeHrmVisualFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/module3/PracticeKeys2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/practice/AssertionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/practice/CheckAnnotationAndOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/practice/DependencyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/practice/HRMLoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/practice/OrangeHrmJobTitleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/practice/PriorityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testngBasics/practice/SoftAssertTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/runAddJobTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/runClasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/runExcludeMethods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/runMethods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configXml/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/module2/PracticeAccessibilityWebPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/module2/PracticeAccessibilityWebPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/module3/DemoQAPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/module3/DemoQAPractice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2ekR41yzqnLQvgOZGlkgkyZZvkV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,12 +61,134 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BadApproach.executor": "Run",
+    "Application.CustomDropdowns.executor": "Run",
+    "Application.DemoQAPractice.executor": "Run",
+    "Application.Homework5.executor": "Run",
+    "Application.HomeworkVerifyingTabVisualFeedback.executor": "Run",
+    "Application.PracticeAccessibilityWebPage.executor": "Run",
+    "Application.PracticeHrmVisualFeedback.executor": "Run",
+    "Application.PracticeKeys.executor": "Run",
+    "Application.PracticeKeys2.executor": "Run",
+    "Application.SelectDropdownPractice.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/runAddJobTests.xml.executor": "Run",
+    "TestNG./Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/runClasses.xml.executor": "Run",
+    "TestNG./Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/runMethods.xml.executor": "Run",
+    "TestNG./Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/testng.xml.executor": "Run",
+    "TestNG.AssertionTest.executor": "Run",
+    "TestNG.AssertionTest.verifyConditionFalse.executor": "Run",
+    "TestNG.AssertionTest.verifyDbConnection.executor": "Run",
+    "TestNG.AssertionTest.verifyEquality.executor": "Run",
+    "TestNG.AssertionTest.verifyIfNotNull.executor": "Run",
+    "TestNG.AssertionTest.verifyIfNull.executor": "Run",
+    "TestNG.AssertionTest.verifyInequality.executor": "Run",
+    "TestNG.BetterApproach.executor": "Run",
+    "TestNG.BetterApproachTest.executor": "Run",
+    "TestNG.BetterApproachTest.verifyLogoIsDisplayed.executor": "Run",
+    "TestNG.BetterApproachTest.verifyPageTitle.executor": "Run",
+    "TestNG.CheckAnnotationAndOrderTest.executor": "Run",
+    "TestNG.Guru99homeworkTest.executor": "Run",
+    "TestNG.Guru99homeworkTest.verifyNoSeatsAvaialble.executor": "Run",
+    "TestNG.HomewoekDemoApplication.executor": "Run",
+    "TestNG.HomeworkAssertionsTest.executor": "Run",
+    "TestNG.HomeworkAssertionsTest.verifiIfShopNewYogaIsDisplayed.executor": "Run",
+    "TestNG.HomeworkAssertionsTest.verifiTheTitle.executor": "Run",
+    "TestNG.OrangeHrmTest.verifyPageTitle.executor": "Run",
+    "TestNG.PriorityTest.executor": "Run",
+    "TestNG.SoftAssertTest.executor": "Run",
+    "TestNG.SoftAssertTest.verifyDbRecordsMatchingUiRecordWithSoftAssert.executor": "Run",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/java/module3"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/module3" />
+      <recent name="$PROJECT_DIR$/src/test/java/module2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testngBasics.practice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.AssertionTest">
+    <configuration name="AssertionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium-testng-git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngBasics.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testngBasics.practice" />
+      <option name="MAIN_CLASS_NAME" value="testngBasics.practice.AssertionTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckAnnotationAndOrderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium-testng-git" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testngBasics.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testngBasics.practice" />
+      <option name="MAIN_CLASS_NAME" value="testngBasics.practice.CheckAnnotationAndOrderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/runAddJobTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium-testng-git" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/configXml/runAddJobTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/runMethods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium-testng-git" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/configXml/runMethods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="maven-selenium-testng-git" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/configXml/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.AssertionTest" />
+        <item itemvalue="TestNG./Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/testng.xml" />
+        <item itemvalue="TestNG./Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/runMethods.xml" />
+        <item itemvalue="TestNG./Users/mariamsamkharadze/Desktop/seleniumProject/maven-selenium-testng-git/src/test/resources/configXml/runAddJobTests.xml" />
+        <item itemvalue="TestNG.CheckAnnotationAndOrderTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,6 +198,27 @@
       <option name="presentableId" value="Default" />
       <updated>1712446397847</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1712448870695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712448870695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1712449128932</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712449128932</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
