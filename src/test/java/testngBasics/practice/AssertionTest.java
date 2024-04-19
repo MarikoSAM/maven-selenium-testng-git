@@ -10,7 +10,6 @@ import java.util.Scanner;
 // Assert class in TestNG is called - Hard Assert since it fails immediately.
 
 public class AssertionTest {
-
     @Test
     public void verifyCondition(){
 
@@ -28,7 +27,6 @@ public class AssertionTest {
 
         String title = "Google";
         Assert.assertTrue(title.equals("Google"), "The title verification failed! Expected: Google, Actual: " + title);
-
     }
 
     @Test

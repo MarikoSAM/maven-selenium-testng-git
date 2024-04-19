@@ -105,7 +105,6 @@ public class OrangeHrmJobTitleTest {
 
   }
 
-
   public void login(String username, String password) {
     WebElement userNameInput = driver.findElement(By.name("txtUsername"));
     WebElement passwordInput = driver.findElement(By.id("txtPassword"));
